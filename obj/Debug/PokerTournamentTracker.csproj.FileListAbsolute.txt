@@ -1,0 +1,14 @@
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\bin\Debug\PokerTournamentTracker.exe.config
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\bin\Debug\PokerTournamentTracker.exe
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\bin\Debug\PokerTournamentTracker.pdb
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.csproj.AssemblyReference.cache
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.MainForm.resources
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.Properties.Resources.resources
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.csproj.GenerateResource.cache
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.csproj.CoreCompileInputs.cache
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.exe
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.pdb
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.GamesForm.resources
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.HandsMasterForm.resources
+C:\Users\DavidHung\source\repos\PokerTournamentTracker\PokerTournamentTracker\obj\Debug\PokerTournamentTracker.HandDetailsForm.resources
